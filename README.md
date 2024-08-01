@@ -1,0 +1,1 @@
+This a basic federate learning model which i demonstrate how it works it is divided into three supernodes . It is used upon the "MNIST" dataset attached is a file name "utils2.py" which has some of the functions used in the file 
